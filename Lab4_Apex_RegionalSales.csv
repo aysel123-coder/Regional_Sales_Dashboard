@@ -1,0 +1,29 @@
+OrderID,OrderDate,CustomerID,CustomerName,Region,Category,ProductName,Quantity,UnitPrice,SaleAmount
+ORD-3001,10/1/2024,C001,Marcus Johnson,Northeast,Footwear,Running Shoes Pro X,5,89.99,449.95
+ORD-3002,10/2/2024,C002,Priya Sharma,West,Fitness,Yoga Mat Ultra Grip,8,29.99,239.92
+ORD-3003,10/3/2024,C003,David Kim,Southeast,Fitness,Resistance Band Set,12,19.99,239.88
+ORD-3004,10/4/2024,C004,Angela Torres,Midwest,Sports Equipment,Basketball,6,44.99,269.94
+ORD-3005,10/5/2024,C005,Brian Okafor,Northeast,Footwear,Waterproof Hiking Boot,4,124.99,499.96
+ORD-3006,10/6/2024,C006,Lisa Chen,West,Apparel,Fleece Hoodie,10,49.99,499.9
+ORD-3007,10/7/2024,C007,James Williams,Southeast,Accessories,Sports Water Bottle,20,14.99,299.8
+ORD-3008,10/8/2024,C008,Fatima Al-Hassan,Midwest,Fitness,Adjustable Dumbbells,5,149.99,749.95
+ORD-3009,10/9/2024,C009,Carlos Rivera,Northeast,Footwear,Women's Sneakers Lite,6,79.99,479.94
+ORD-3010,10/10/2024,C010,Natalie Brooks,West,Cycling,Cycling Helmet,7,54.99,384.93
+ORD-3011,10/12/2024,C011,Steven Park,Southeast,Apparel,Men's Polo Shirt,9,32.99,296.91
+ORD-3012,10/13/2024,C012,Michelle Davis,Midwest,Fitness,Foam Roller Therapy,8,24.99,199.92
+ORD-3013,10/14/2024,C001,Marcus Johnson,Northeast,Fitness,Resistance Band Set,10,19.99,199.9
+ORD-3014,10/15/2024,C013,Robert Nguyen,West,Fitness,Weightlifting Belt,6,69.99,419.94
+ORD-3015,10/16/2024,C014,Sandra White,Southeast,Aquatics,Swim Goggles Pro,11,22.99,252.89
+ORD-3016,10/17/2024,C015,Kevin Brown,Midwest,Sports Equipment,Tennis Racket Elite,4,89.99,359.96
+ORD-3017,10/18/2024,C016,Tanya Mitchell,Northeast,Apparel,Classic Denim Jacket,7,64.99,454.93
+ORD-3018,10/19/2024,C017,Ahmed Hassan,West,Aquatics,Swim Training Cap,15,9.99,149.85
+ORD-3019,10/20/2024,C018,Lauren Scott,Southeast,Footwear,Kids Running Shoes,5,54.99,274.95
+ORD-3020,10/21/2024,C019,Derek James,Midwest,Apparel,Compression Shorts,8,34.99,279.92
+ORD-3021,10/22/2024,C020,Olivia Turner,Northeast,Fitness,Gym Gloves Pair,12,17.99,215.88
+ORD-3022,10/23/2024,C002,Priya Sharma,West,Cycling,Bike Water Bottle Cage,14,8.99,125.86
+ORD-3023,10/24/2024,C021,Raymond Lee,Southeast,Fitness,Knee Support Brace,7,26.99,188.93
+ORD-3024,10/25/2024,C022,Jessica Hill,Midwest,Sports Equipment,Badminton Set,6,36.99,221.94
+ORD-3025,10/26/2024,C023,Thomas Young,Northeast,Fitness,Adjustable Dumbbells,4,149.99,599.96
+ORD-3026,10/27/2024,C024,Maria Garcia,West,Fitness,Yoga Mat Ultra Grip,9,29.99,269.91
+ORD-3027,10/28/2024,C025,Jonathan Reed,Southeast,Apparel,Fleece Hoodie,6,49.99,299.94
+ORD-3028,10/29/2024,C026,Stephanie Collins,Midwest,Footwear,Waterproof Hiking Boot,8,124.99,999.92
